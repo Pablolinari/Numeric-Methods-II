@@ -1,0 +1,1 @@
+This project focuses on implementing numerical methods for solving problems related to derivatives, integration, and differential equations using Python. The implementation leverages powerful libraries such as SciPy, NumPy, and Matplotlib to provide accurate and efficient solutions and to use the diferent methods seen in theorical classes 
